@@ -16,10 +16,10 @@ global.APIKeys = {
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*ツｔＲＵＮＫＳ 
-*I am 16 years old developer...*
-*From morocco 🇱🇰*
-*I am a Learning.*
+* ツ ｔＲＵＮＫＳ
+* عمري 16 سنة مطور ... *
+* من المغرب 🇱🇰 *
+* أنا أتعلم. *
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
